@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-07-24T20:11:52.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JcT9C36Iy86n0LVLBp-1" version="21.6.5" type="device">
+  <diagram name="Página-1" id="L7o83cO6X59fyJ4guWWG">
+    <mxGraphModel dx="1877" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-1" value="A Optus é uma empresa no ramo musical que deseja realizar o gerenciamento dos lançamentos de novos cds de seus artistas. Cada álbum lançado poderá conter mais de um estilo vinculado (ex.: Indie e Folk).&#xa;É importante que você crie também uma estratégia para que os usuários possuam acesso à plataforma.&#xa;Os usuários deverão conter nome, email, senha e o tipo de permissão (eles podem ser do tipo administrador ou comum).&#xa;&#xa;&#xa;Observações:&#xa;Os Artistas deverão possuir somente nome.&#xa;Estilos: nome.&#xa;Albuns: titulo, data de lançamento, localizacao, quantidade de minutos, se o álbum está ativo para visualização, a quem pertence (somente um artista por álbum) e quais os estilos vinculados." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="770" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-2" value="Optus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-3" value="Album" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-7" value="Usuários" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-8" value="Artista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-9" value="Estilo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-12" value="Status de visualização&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="300" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-13" value="Titulo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-14" value="Data de lançamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-16" value="Nome do Estilo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIskKDjq8a4CKVhH7p-r-18" value="Nome do Artista" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
