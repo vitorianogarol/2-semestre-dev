@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T20:16:27.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9u_HyEXhDDx3EX8Zw6rx" version="21.6.5" type="device" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-27T20:18:52.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YBoOsEmAmloOf7KeGO_S" version="21.6.5" type="device" pages="7">
   <diagram id="wAgFyvXAg0B-_Anp9Sxv" name="Exercicio 1.0">
     <mxGraphModel dx="3000" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1265,7 +1265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7Ek5P1TqkKww93vytSwB" name="Exercício 1.4">
-    <mxGraphModel dx="1400" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1641,7 +1641,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wFem-AUaVcUP7bpqjYbS" name="Exercício 1.5">
-    <mxGraphModel dx="1750" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2061,7 +2061,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vqS5mQKbG95QCzyrR4Z6" name="Exercício 1.6">
-    <mxGraphModel dx="2100" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
