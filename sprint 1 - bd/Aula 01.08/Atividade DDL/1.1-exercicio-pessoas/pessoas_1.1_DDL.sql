@@ -1,6 +1,8 @@
-CREATE DATABASE Exercicio_1_1;
+-- DDL
 
-USE Exercicio_1_1;
+CREATE DATABASE Exercicio_1_1_V;
+
+USE Exercicio_1_1_V;
 
 CREATE TABLE Pessoa
 (
@@ -24,6 +26,8 @@ CREATE TABLE Email
 	Endereco VARCHAR(30) NOT NULL UNIQUE 
 );
 
+SELECT * FROM Pessoa
+SELECT * FROM Telefone
 SELECT * FROM Email
 
 
