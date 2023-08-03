@@ -1,21 +1,21 @@
 --DML --------------------
 
-USE Exercicio_1_2;
+USE Exercicio_1_2_V;
 
 
 --INSERIR----------------------
 
 INSERT INTO Empresa(Nome)
-VALUES ('Exemplo1'),('Exemplo1')
+VALUES ('Exemplo1'),('Exemplo2')
 -----------------------------------
 
 INSERT INTO Modelo(Nome)
-VALUES ('Exemplo1'),('Exemplo1')
+VALUES ('Exemplo1'),('Exemplo2')
 
 -----------------------------------
 
 INSERT INTO Marca(Nome)
-VALUES ('Exemplo1'),('Exemplo1')
+VALUES ('Exemplo1'),('Exemplo2')
 ------------------------------------
 
 INSERT INTO Cliente (Nome,CPF)
@@ -28,7 +28,7 @@ VALUES (1,1,1,'1234567'),(2,2,2,'7654321')
 ------------------------------------
 
 INSERT INTO Aluguel(IdCliente,IdVeiculo,Protocolo)
-VALUES (1,1,'123'),(1,1,'321')
+VALUES (1,1,'123'),(2,2,'321')
 
 ------------------------------------
 

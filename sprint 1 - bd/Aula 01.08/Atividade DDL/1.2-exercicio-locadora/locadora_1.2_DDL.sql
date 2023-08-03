@@ -2,8 +2,8 @@
 
 -- CRIAR TABELAS
 
-CREATE DATABASE Exercicio_1_2;
-USE Exercicio_1_2;
+CREATE DATABASE Exercicio_1_2_V;
+USE Exercicio_1_2_V;
 
 ------------------------------------------
 CREATE TABLE Empresa 
